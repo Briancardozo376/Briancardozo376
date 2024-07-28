@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
  <head> 
-   <title>A ver que onda <title/>
+   <h1>A ver que onda </h1>
  </head>
 <body>
  <p align=center> Tsuanajakaka ksksjsjk sjsjj </p>
