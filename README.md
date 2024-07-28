@@ -1,3 +1,12 @@
+<!DOCTYPE HTML>
+<html>
+ <head> 
+   <title><title/>
+ </head>
+<body>
+ <p>Tsuanajakaka ksksjsjk sjsjj </p>
+</body>
+</html>
 - 👋 Hi, I’m @Briancardozo376
 - 👀 I’m interested in tecnologias en desarrollo
 - 🌱 I’m currently learning ...
