@@ -1,6 +1,7 @@
 <!DOCTYPE HTML>
 <html>
  <head> 
+   <styleshet src="https://github.com/Briancardozo376/Briancardozo376/blob/main/estilos.css">
    <h1>A ver que onda </h1>
  </head>
 <body>
