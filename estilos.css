@@ -1,0 +1,33 @@
+/* Estilos básicos del botón */
+.interactive-button {
+    background-color: #4CAF50; /* Color de fondo */
+    border: none; /* Sin borde */
+    color: white; /* Color del texto */
+    padding: 15px 32px; /* Padding */
+    text-align: center; /* Alineación del texto */
+    text-decoration: none; /* Sin subrayado */
+    display: inline-block; /* Display en línea */
+    font-size: 16px; /* Tamaño de la fuente */
+    margin: 4px 2px; /* Margen */
+    cursor: pointer; /* Cursor de mano */
+    border-radius: 12px; /* Bordes redondeados */
+    transition: background-color 0.3s, transform 0.3s; /* Transiciones */
+}
+
+/* Efecto hover */
+.interactive-button:hover {
+    background-color: #45a049; /* Cambio de color en hover */
+    transform: scale(1.05); /* Agrandar ligeramente */
+}
+
+/* Efecto active (cuando se presiona el botón) */
+.interactive-button:active {
+    background-color: #3e8e41; /* Cambio de color al presionar */
+    transform: scale(0.95); /* Reducir ligeramente */
+}
+
+/* Efecto focus (cuando el botón tiene el foco) */
+.interactive-button:focus {
+    outline: none; /* Sin borde al tener el foco */
+    box-shadow: 0 0 10px #719ECE; /* Sombra al tener el foco */
+}
